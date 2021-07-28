@@ -16,6 +16,10 @@
   },
   "homepage": "https://github.com/2bleO/test-excercise#readme",
   "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.31.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4",
     "jest": "^27.0.6"
   }
 }
